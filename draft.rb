@@ -2,7 +2,7 @@
 #
 # Description:
 #
-#   ABC Corp. was recently contacted by the NFL to provide an
+#   LMNOP GmbH was recently contacted by the NFL to provide an
 #   NFL Draft Tracker to manage the assignment of players
 #   during the 2010 draft.
 #
